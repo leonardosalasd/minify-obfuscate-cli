@@ -2,7 +2,7 @@
 
 **A high-performance Python orchestrator for automated web asset optimization and source code protection.**
 
-`minify-obfuscate-cli` provides a zero-config build pipeline to minify HTML/CSS and obfuscate JavaScript in bulk. Designed for developers who need to protect their intellectual property and optimize production delivery without manual overhead.
+`minify-obfuscate-cli` provides an automated build pipeline to minify HTML/CSS and obfuscate JavaScript in bulk. Designed for developers who need to protect their intellectual property and optimize production delivery without manual overhead.
 
 ---
 
